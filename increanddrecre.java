@@ -5,8 +5,8 @@ public class increanddrecre {
         int b = a++ + ++a;
         int c = 20;
         c++;
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
+        System.out.println(a); // a=5
+        System.out.println(b); // b=8
+        System.out.println(c); // c=21
     }
 }

@@ -6,7 +6,7 @@ public class arithmetic {
         System.out.println(20 * 5);
         System.out.println(20 / 4);
         System.out.println(2 % 20);
-        System.out.println(22 % 5);
+        System.out.println(200 % 50);
         System.out.println(5 * 2);
 
     }
